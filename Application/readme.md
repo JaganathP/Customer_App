@@ -18,5 +18,5 @@ Cd Application
 
 bundle install
 
-cucumber URL=http://localhost:3000/# -t @sanity
+cucumber URL=http://localhost:3000 -t @sanity
 
