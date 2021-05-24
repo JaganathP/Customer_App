@@ -1,0 +1,3 @@
+# Logfile created on 2021-05-24 17:20:26 +0530 by logger.rb/v1.4.3
+D, [2021-05-24T17:20:26.244047 #11155] DEBUG -- : Scenario: Validate the Customer details page in the Dashboard
+D, [2021-05-24T17:20:33.520863 #11155] DEBUG -- : status: passed
