@@ -1,0 +1,12 @@
+  source 'https://rubygems.org'
+
+  gem 'parallel_tests'
+  gem 'cucumber'
+  gem 'data_magic'
+  gem 'logger'
+  gem 'page-object'
+  gem 'require_all'
+  gem 'rspec'
+  gem 'selenium-webdriver'
+  gem 'byebug'
+
