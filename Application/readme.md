@@ -1,18 +1,18 @@
-Customer App
+**Customer App**
 
 UI Automation code with Cucmber Selenium with Ruby Language. 
 
 
 
-Requirement: 
+**Requirement:**
 
 Ruby > 2
 
 Driver Installed
 
-
-
-To Run:
+ 
+ 
+**To Run:**
 
 Cd Application
 
